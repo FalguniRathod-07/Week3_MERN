@@ -350,7 +350,7 @@ Vite development server
 ![Dashboard](screenshots/3Dashboard.png)
 
 ### Add New Task
-![Add New Task](screenshots/4AddTasks.png)
+![Add New Task](screenshots/4AddTask.png)
 
 ---
 
