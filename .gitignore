@@ -1,3 +1,6 @@
 node_modules/
 .env
 uploads/*
+/backend/uploads/
+/backend/server.js.backup
+/backend/server.js.before-auth-backup
