@@ -470,14 +470,14 @@ Vite development server
 
 Possible future improvements include:
 
-Task due-date reminders
-Notifications
-Task priority
-Task categories
-Drag-and-drop task management
-Dark mode
-Cloud image storage
-Advanced dashboard analytics
+- Task due-date reminders
+- Notifications
+- Task priority
+- Task categories
+- Drag-and-drop task management
+- Dark mode
+- Cloud image storage
+- Advanced dashboard analytics
 
 ---
 
