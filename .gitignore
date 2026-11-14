@@ -4,3 +4,5 @@ uploads/*
 /backend/uploads/
 /backend/server.js.backup
 /backend/server.js.before-auth-backup
+
+backend/package.json.backup
